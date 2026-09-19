@@ -1,0 +1,4 @@
+1 CandidateA 2
+2 CandidateB 2
+3 CandidateC 0
+3 hasin 0
